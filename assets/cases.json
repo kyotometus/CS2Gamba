@@ -1,0 +1,71 @@
+{
+    "case": {
+        "name": "Dreams & Nightmares",
+        "skins": [
+            {
+                "name" : "Knife/Gold",
+                "rarity" : "ExceedinglyRare"
+            },
+            {
+                "name": "AK-47 | Nightwish",
+                "rarity": "Covert"
+            },
+            {
+                "name": "MP9 | Starlight Protector",
+                "rarity": "Classified"
+            },
+            {
+                "name": "Dual Berettas | Melondrama",
+                "rarity": "Classified"
+            },
+            {
+                "name": "R8 Revolver | Banana Cannon",
+                "rarity": "Classified"
+            },
+            {
+                "name": "FAMAS | ZX Spectron",
+                "rarity": "Restricted"
+            },
+            {
+                "name": "M4A1-S | Night Terror",
+                "rarity": "Restricted"
+            },
+            {
+                "name": "PP-Bizon | Space Cat",
+                "rarity": "Restricted"
+            },
+            {
+                "name": "XM1014 | Zombie Offensive",
+                "rarity": "Restricted"
+            },
+            {
+                "name": "USP-S | Ticket to Hell",
+                "rarity": "Restricted"
+            },
+            {
+                "name": "MP7 | Abyssal Apparition",
+                "rarity": "MilSpec"
+            },
+            {
+                "name": "MAC-10 | Ensnared",
+                "rarity": "MilSpec"
+            },
+            {
+                "name": "MAG-7 | Foresight",
+                "rarity": "MilSpec"
+            },
+            {
+                "name": "SCAR-20 | Poultrygeist",
+                "rarity": "MilSpec"
+            },
+            {
+                "name": "G3SG1 | Dream Glade",
+                "rarity": "MilSpec"
+            },
+            {
+                "name": "P2000 | Lifted Spirits",
+                "rarity": "MilSpec"
+            }
+        ]
+    }
+}
