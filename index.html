@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CS2Gamba</title>
+    <script src="script.js"></script>
+</head>
+
+<body>
+    <h1>CS2Gamba</h1>
+
+    <div class="form-container">
+        <label>Nº Of Cases</label>
+        <input type="text" id="numOfOpeningInput">
+
+        <label for="">Select Case</label>
+        <select name="" id="">
+            <option value="1">Dreams & Nightmare</option>
+        </select>
+
+        <label for="">Currency</label>
+        <select name="" id="currencySelector">
+            <option value="0">EUR</option>
+            <option value="1">USD</option>
+        </select>
+
+        <button onclick="calculateCaseOpening()">Gamba!</button>
+    </div>
+
+    <div id="responseContainer"></div>
+    <!-- Toggle button -->
+    <button id="toggleLogButton" onclick="toggleLogVisibility()">Toggle Full Log</button>
+    <!-- Full log container (initially hidden) -->
+    <div id="fullLogContainer" style="display:none;"></div>
+
+</body>
+
+<style>
+    .form-container {
+        display: flex;
+        flex-direction: column;
+        max-width: fit-content;
+    }
+</style>
+
+</html>
